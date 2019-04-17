@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(member)
-  if member.include?
+  if prime_member.include?
     true
   else
     false
