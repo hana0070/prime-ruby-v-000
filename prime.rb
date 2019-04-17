@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(member)
+def prime?(num)
   if member.include?(member)
     true
   else
